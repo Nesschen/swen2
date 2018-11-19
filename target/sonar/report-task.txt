@@ -1,0 +1,7 @@
+organization=nesschen-github
+projectKey=Nesschen_swen2
+serverUrl=https://sonarcloud.io
+serverVersion=7.5.0.19140
+dashboardUrl=https://sonarcloud.io/dashboard?id=Nesschen_swen2
+ceTaskId=AWctnzPHZBOcJ_K_v5BI
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWctnzPHZBOcJ_K_v5BI
